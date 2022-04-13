@@ -1,6 +1,6 @@
-# :wave: [Hello World](https://github.com/Hantasmagoria/repo-practice) :egg:
+# :wave: [Doorman](https://github.com/Hantasmagoria/doorman) :egg:
 
->Practice repo and prospective sandbox for play-testing new knowledge in the future. Includes templates for future projects. Templates inspired by plenty of sources of unknown origin.
+> Discord server entry verification bot designed to combat the influx of spammer bot(selfbot) accounts in various servers. Template inspired by plenty of sources of unknown origin.
 
 ## Table of Contents
 
@@ -13,21 +13,20 @@
 
 ## Installation
 
- This is a practice repo, there will not be any installations.
+This is a placeholder, there will be changes made in due time.
 
 ## Language support
 
- See [all supported options in the documentation at  `docs/options.md`](docs/options.md).
+See [all supported options in the documentation at `docs/options.md`](docs/options.md).
 
 ## Usage
 
- -Placeholder
+-Placeholder
 
 ## Configuration
 
- -Placeholder
-
+-Placeholder
 
 ## Troubleshooting
 
- See [`docs/troubleshooting.md`](docs/troubleshooting.md).
+See [`docs/troubleshooting.md`](docs/troubleshooting.md).
